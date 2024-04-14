@@ -1,0 +1,23 @@
+form {
+  margin: 20px auto;
+  width: 50%;
+  height: 100%;
+  border: 1px solid #7b8289;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ced4da;
+}
+.message {
+  padding: 0 15px;
+  border: 1px solid #7b8289;
+  background-color: #ced4da;
+  display: flex;
+  margin: 10px auto;
+  color: #495057;
+  justify-content: space-around;
+}
+.text {
+  margin-top: 20px;
+  color: #495057;
+  text-align: center;
+}
