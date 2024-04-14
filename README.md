@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vxbqwvl4n47l1gnb?svg=true)]()
+[![Build status](https://ci.appveyor.com/api/projects/status/vxbqwvl4n47l1gnb?svg=true)](https://ci.appveyor.com/project/Zunickx/ahj-rxjs)
 
-[GitHubPage]()
+[GitHubPage](https://github.com/Zunickx/ahj-rxjs)
 
 # Домашнее задание к занятию "11. RxJS"
 
